@@ -19,25 +19,8 @@ This project was developed as a university project during the third year of univ
 
 The application is organized into several classes:
 
-* Category - manages income and expense categories. Income categories include:
-  * Salary
-  * Gifts
-  * Investments
-  * Other
-
-Expense categories include:
-  * Food
-  * Transport
-  * Entertainment
-  * Housing
-  * Health
-  * Other
-* Expense - represents an income or expense transaction. Each transaction stores:
-  * Date
-  * Amount
-  * Description
-  * Category
-  * Transaction type
+* Category - manages income and expense categories. Income categories includes salary, gifts, investments, other. Expense categories includes food, transport, entertainment, housing, health, other.
+* Expense - represents an income or expense transaction. Each transaction stores date, amount, description, category, transaction type.
 * RecurringExpense - extends the Expense class and represents recurring expenses. It additionally stores the frequency of the expense.
 * User - represents an application user and stores their transaction history.
 * FinanceApp - controls the graphical interface and connects the user interface with the financial data.
