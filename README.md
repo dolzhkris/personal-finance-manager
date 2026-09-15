@@ -19,9 +19,7 @@ This project was developed as a university project during the third year of univ
 
 The application is organized into several classes:
 
-* Category - manages income and expense categories.
-
-Income categories include:
+* Category - manages income and expense categories. Income categories include:
   * Salary
   * Gifts
   * Investments
