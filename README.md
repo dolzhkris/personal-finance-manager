@@ -13,6 +13,7 @@ The application allows users to:
 * analyze expenses by category;
 * display financial statistics;
 * visualize expenses using a pie chart.
+
 This project was developed as a university project during the third year of university.
 
 ## Object-oriented Structure
